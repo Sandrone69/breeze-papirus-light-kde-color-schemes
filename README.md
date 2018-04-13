@@ -1,10 +1,12 @@
-# Ash KDE color scheme
-Shades of ash color theme.
+# B-Tone Pale Blue KDE color scheme
+Light color scheme with two colors in contrast: pale blue and yellow.
 
 Put the color-scheme in: ~/.kde/share/apps/color-schemes/
 
-![resized_ash_buttons](https://user-images.githubusercontent.com/38332358/38719118-98332596-3ef0-11e8-887a-b1f5eb40198f.png)
+![resized_b-tone-pale-blue-dolphin-logo](https://user-images.githubusercontent.com/38332358/38720444-92dc4e96-3ef6-11e8-8035-099df85940ee.png)
 
-![resized_ash_desktop](https://user-images.githubusercontent.com/38332358/38719119-9853ba2c-3ef0-11e8-9c85-7383bcf7e343.png)
+![resized_b-tone-pale-blue-desktop](https://user-images.githubusercontent.com/38332358/38720449-9861ec18-3ef6-11e8-907e-fb0443415be8.png)
 
-![resized_ash_dolphin](https://user-images.githubusercontent.com/38332358/38719120-98775824-3ef0-11e8-82c7-e1d8693f7f7d.png)
+![resized_b-tone-pale-blue-buttons](https://user-images.githubusercontent.com/38332358/38720456-9d496da0-3ef6-11e8-8692-9dd39fde8066.png)
+
+![resized_b-tone-pale-blue-dolphin](https://user-images.githubusercontent.com/38332358/38720465-a137720e-3ef6-11e8-89fe-a7c919b1abd8.png)
