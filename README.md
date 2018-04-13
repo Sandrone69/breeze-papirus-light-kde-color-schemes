@@ -1,5 +1,5 @@
 # Breeze Papirus color schemes for KDE Plasma 5
-Breeze light color schemes combined with the colors of Papirus folders icons.
+Breeze light color schemes combined with the folders colors of Papirus Development Team's folders icons. 
 
 Put the color-schemes in: ~/.kde/share/apps/color-schemes/
 
